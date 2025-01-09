@@ -6,7 +6,7 @@
 - Vimukthi
 
 ## version
-0.4.0
+0.5.0
 
 ## license
 Copyright &copy; 2025 DEP13. All Rights Reserved.
